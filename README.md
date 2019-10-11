@@ -5,7 +5,7 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab. | <b> Engineering Physics
-<b> Experiment|     <b> 1.DSB/ SSB amplitude modulation & determine its modulation factor & power in side bands.
+<b> Experiment|     <b> DSB/ SSB amplitude modulation & determine its modulation factor & power in side bands.
 
 
 
