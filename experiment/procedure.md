@@ -1,3 +1,4 @@
+###Procedure##
 1.	Connections are made for the AM Modulator and Demodulator as shown in the circuit diagrams.
 2.	Frequency of the input carrier is fixed at constant amplitude of 1 volt and 150 KHz.
 3.	A message signal of 1 KHz at 0.5 volt amplitude is applied at the modulating signal input.
