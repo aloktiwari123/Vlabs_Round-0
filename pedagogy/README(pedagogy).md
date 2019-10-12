@@ -94,11 +94,4 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
 :--|:--|:--|:--:
-1.| Student will click on Simulation tab | Simulator opens the experiment screen | To open screen to perform experiment 
-2.| Student will drag and drop various apparatus parts at appropriate positions on the blank canvas.  | Simulator will display a blank canvas appears on the screen and all apparatus parts separately and provide option to drag and drop the parts at appropriate position. <br>If student located it wrongly appropriate message will be displayed. | To recall the set-up
-3.| Student will confirm the labeling of the experimental set-up appearing on the simulator  | Simulator will display labeled image with rays of light complete ray movement   | To provide basic environment to start the experiment.
-4.| Student calculate least count and enters the value of least count in the field provided  | Simulator will display main scale and verniers scale with enlarge view Simulator accepts the input of least count value and if the student is correct display massage “correct least count” or else gives the hint to get correct value  | To let the student understand concept of least count.
-5.| Student will move the screw of the travelling microscope and set the cross wire at tangential position. Note readings for various rings. | Simulator will allow the student to change the position of the cross wire from one side of the image to other side of image when the student press the “Traverse” button. Put the cross wire is at tangential position.  | To arrange the experimental condition
-6.| Student will click on the “Add to Readings” button to store the ring diameter value in the observation table  | Simulator will display the “Add to Readings” Button and store the ring diameter value in the observation table. | To record and store readings
-7.| Student will click on the “Display Table”  button to see the observation table. <br>Student will click on the “Reset”  button | Simulator will display the observation table and plot the graph with given set of readings. Simulator will reset the conditions to original  | To observe the recorded readings and plot the graph.<br>To reset the situation with the initial conditions.  
-
+1.| Student will click on Simulation tab | Simulator opens the quizes on  screen | This will test the understandindg of experiment of student 
