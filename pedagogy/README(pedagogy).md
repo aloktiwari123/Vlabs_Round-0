@@ -2,13 +2,13 @@
 <p align="center">
 <br>
 <br>
-<b> Experiment: Newton's Ring Experiment  <a name="top"></a> <br>
+<b> Experiment:DSB/SSB amplitude modulation   <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b> Engineering Physics
-<b> Experiment|     <b> 1. Determining wavelength of light and refractive index using Newton's ring experiment.
+<b> Experiment|     <b> To study DSB/SSB amplitude modulation and determine its modulation factor.
 
 
 <h4> [1. Focus Area](#LO)
