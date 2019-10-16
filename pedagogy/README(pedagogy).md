@@ -7,7 +7,7 @@
 
 <b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab | <b> Engineering Physics
+<b> Lab | <b> Electronics Engineering
 <b> Experiment|     <b> To study DSB/SSB amplitude modulation and determine its modulation factor.
 
 
