@@ -53,54 +53,54 @@ AM wave can be expressed as:
 <br> b) Transmitter 
 <br> c) Receiver 
 <br> d) Duplexer
-ANS:-A
+<br> ANS:-A
 
 ##### 2.	In Amplitude Modulation, the instantaneous values of the carrier amplitude changes in accordance with the amplitude and frequency variations of the modulating signal.
-<br> a)	True 
+<br> <b> a)	True  </b>
 <br> b) False
-ANS:-A
+<br> ANS:-A
 
 ##### 3.What is the line connecting the positive and negative peaks of the carrier waveform called?
 <br> a) Peak line
 <br> b)	Maximum amplitude ceiling 
 <br> c) Modulation index
-<br> d) Envelope 
-ANS:-D
+<br> <b>  d) Envelope  </b>
+<br> ANS:-D
 
 ##### 4. The ratio between the modulating signal voltage and the carrier voltage is called?
 a) Amplitude modulation
 b) Modulation frequency 
-c) Modulation index
+c)  <b> Modulation index  </b>
 d) Ratio of modulation
-ANS:-C
+<br> ANS:-C
 
 ##### 5:- What happens when the amplitude of the modulating signal is greater than the amplitude of the carrier?
 <br> a)  Decay
-<br> b) Distortion
+<br>  <b> b) Distortion  </b>
 <br> c) Amplification
 <br> d) Attenuation 
-ANS:-B
+<br> ANS:-B
 
 ##### 6:- What is the condition for greatest output power at the transmitter without distortion? 
 <br> a) Modulating signal voltage > Carrier voltage
 <br> b) Modulating signal voltage < Carrier voltage 
-<br> c) Modulating signal voltage = Carrier voltage 
+<br>  <b> c) Modulating signal voltage = Carrier voltage  </b> 
 <br> d) Modulating signal voltage = 0
-ANS:-C
+<br> ANS:-C
  
 ##### 7:- What is the bandwidth of the signal if the highest frequency in the modulating signal is 3 KHz? 
-<br> a) 6Khz
+<br>  <b> a) 6Khz </b>
 <br> b) 3KHz
 <br> c)  5Khz
 <br> d) 140Khz
-ANS:-A
+<br> ANS:-A
 
 ##### 8:- What is the wave of frequency that occurs at the sum and difference of the carrier and modulating signal is called?
 <br> a) Noise signals
-<br> b) Sideband
+<br> <b> b) Sideband </b>
 <br> c)  Extraband 
 <br> d) Neutral band 
-ANS:-B
+<br> ANS:-B
 
 
 
