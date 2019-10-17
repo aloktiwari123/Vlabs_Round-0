@@ -15,7 +15,19 @@ At the beginning of the explanation of amplitude modulation, we explained the AM
 
 Single sideband suppressed carrier modulation (SSB-SC)
 The modulation method where only a single band of double sideband suppressed carrier modulation is transmitted is known simply as SSB. It offers even better electrical efficiency and frequency band efficiency than DSB. In addition, with digital modulation, modulation is performed at relatively low frequency, and this method is also used to up-convert the signal to a radio frequency. SSB-SC modulation can be achieved with various systems, but in terms of hardware, USB or LSB can be used as a filter. As with DSB-SC, the modulating signal spectrum is shifted directly to the carrier frequency band without loss.
+ 
+ 1.	Amplitude modulation: Modulation is a process of translating information signal from low band frequency to high band frequency that is suits the transmission medium. Information signal is usually of low frequency, so it cannot travel far. It needs a carrier signal of higher frequency for long distance destination. The inputs are carrier and information (modulating) signals while the output is called the modulated signal. Amplitude Modulation (AM) refers to the modulation technique where the carrier’s amplitude is varied in accordance to the instantaneous value of the modulating or baseband signal’s amplitude. An AM signal is represented as:
 
+Sinusoidal carrier wave C(t) given as:
+   c(t) = A cos wct	A = Max amplitude of the carrier wave
+   Wc = carrier frequency
+AM wave can be expressed as:
+   s(t) = x(t) cos wct + A cos wct s(t) = [A + x(t) ] cos wct
+
+2.	Modulation Index: The amount by which the amplitude of the carrier wave increases and decreases depends on the amplitude of the information signal and is known as modulation index or depth of modulation. The extent of amplitude variation in AM about a unmodulated carrier amplitude is measured in terms of a factor called modulation index.
+
+  m = Vmax-Vmin	X 100 % Vmax+ Vmin
+3.	Double side band transmitter: The transmitter circuit produces the AM signal which is used to carry information over transmission to the receiver.
 
 
 
