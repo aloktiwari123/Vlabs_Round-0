@@ -105,9 +105,9 @@ AM wave can be expressed as:
 <br> d) Neutral band 
 <br> ANS:-B
 
-### 6. Formulas and euations used
+### 6. Formulas and equations used :
 
-Formulas:
+Formulas:<br> Click to access them:
 <a href="storyboard/eq.gif">[here]</a><br>
 <a href="storyboard/eq1.gif">[here]</a><br>
 <a href="storyboard/eq2.gif">[here]</a><br>
