@@ -29,7 +29,7 @@ AM wave can be expressed as:
   m = Vmax-Vmin	X 100 % Vmax+ Vmin
 3.	Double side band transmitter: The transmitter circuit produces the AM signal which is used to carry information over transmission to the receiver.
 <br>
-<img src="storyboard/storyboard/dsb-ssb.jpg"/>
+<img src="storyboard/dsb-ssb.jpg"/>
 
 
 
