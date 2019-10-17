@@ -1,5 +1,5 @@
 
-Theory:
+## Theory:
 
 1.	Amplitude modulation: Modulation is a process of translating information signal from low band frequency to high band frequency that is suits the transmission medium. Information signal is usually of low frequency, so it cannot travel far. It needs a carrier signal of higher frequency for long distance destination. The inputs are carrier and information (modulating) signals while the output is called the modulated signal. Amplitude Modulation (AM) refers to the modulation technique where the carrier’s amplitude is varied in accordance to the instantaneous value of the modulating or baseband signal’s amplitude. An AM signal is represented as:
 
