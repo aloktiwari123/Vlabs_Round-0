@@ -113,12 +113,17 @@ AM wave can be expressed as:
 
 ### 6. Formulas and equations used :
 
-Formulas:<br> Click to access them:<br>
-<a href="storyboard/eq.gif">[here]</a><br>
-<a href="storyboard/eq1.gif">[here]</a><br>
-<a href="storyboard/eq2.gif">[here]</a><br>
-<a href="storyboard/eq3.gif">[here]</a><br>
-<a href="storyboard/eq4.gif">[here]</a> <br>
+Formulas:<br> 
+<img src="storyboard/eq.jpg"/>
+
+<img src="storyboard/eq1.jpg"/>
+<br>
+<img src="storyboard/eq2.jpg"/>
+<br>
+<img src="storyboard/eq3.jpg"/>
+<br>
+<img src="storyboard/eq3.jpg"/>
+ <br>
 Modulation Index m =  ×100 %
  
 
