@@ -49,12 +49,12 @@ AM wave can be expressed as:
 2  CRO as required by the DSB/SSb transmitter
 3.	Patch cords of desired lenght and required numbers
 
-### 4.User objective goals
+### 4. User objective goals
 1. To study DSB/SSB amplitude modulation.
 2. To determine its modulation factor.
 
 
-### 5.Challenges and Questions
+### 5. Challenges and Questions
 ##### 1.	The circuit used for producing AM is called?
 <br> <b> a) Modulator </b> 
 <br> b) Transmitter 
