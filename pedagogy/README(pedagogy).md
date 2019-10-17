@@ -20,6 +20,15 @@
 <a name="LO"></a>
 #### 1. Focus Area : Experimentation and Data Analysis
 The students know the concept DSB/SSB amplitude modulation and they will learn how to determine its modulation factor,they will come to know how to use DSB/SSB transmitters learn about its circuit diagram and how thw modulation occurs and helpfull.
+
+<br/>
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
+<hr>
+
+<a name="LO"></a>
 #### 2. Learning Objectives and Cognitive Level
 
 To study DSB/SSB amplitude modulation.
@@ -35,7 +44,7 @@ To determine its modulation factor.
 
 <a name="IS"></a>
 
-#### 4. Task & Assessment Questions:
+#### 3. Task & Assessment Questions:
 
 Read the theory and comprehend the concepts related to the experiment. 
 <br>
