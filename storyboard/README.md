@@ -106,9 +106,8 @@ AM wave can be expressed as:
 <br> ANS:-B
 
 
-### 6.Conclusion:
 
-### 7. Formulas and equations used :
+### 6. Formulas and equations used :
 
 Formulas:<br> Click to access them:<br>
 <a href="storyboard/eq.gif">[here]</a><br>
@@ -123,7 +122,8 @@ Power of Carrier Signal Pc = Ac²/2 <br>
 Power of Side Band Ps = Pc[1+ ma²/2] <br>
 Total power, P = Pc + Ps
 
-
+### 7.Conclusion:
+####  Study of DSB/SSB AM signal has been done. Modulation Index has been calculated and power has been determined.
 
 
 
