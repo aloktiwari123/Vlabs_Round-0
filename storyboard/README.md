@@ -102,6 +102,7 @@ AM wave can be expressed as:
 <br> d) Neutral band 
 <br> ANS:-B
 
+### 6. Formulas and euations used
 
 
 
