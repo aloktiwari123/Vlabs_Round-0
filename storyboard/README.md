@@ -105,14 +105,23 @@ AM wave can be expressed as:
 <br> d) Neutral band 
 <br> ANS:-B
 
-### 6. Formulas and equations used :
 
-Formulas:<br> Click to access them:
+### 6.Conclusion:
+
+### 7. Formulas and equations used :
+
+Formulas:<br> Click to access them:<br>
 <a href="storyboard/eq.gif">[here]</a><br>
 <a href="storyboard/eq1.gif">[here]</a><br>
 <a href="storyboard/eq2.gif">[here]</a><br>
 <a href="storyboard/eq3.gif">[here]</a><br>
-<a href="storyboard/eq4.gif">[here]</a>
+<a href="storyboard/eq4.gif">[here]</a> <br>
+Modulation Index m =  ×100 %
+ 
+
+Power of Carrier Signal Pc = Ac²/2 <br>
+Power of Side Band Ps = Pc[1+ ma²/2] <br>
+Total power, P = Pc + Ps
 
 
 
