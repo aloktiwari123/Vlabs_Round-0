@@ -11,12 +11,12 @@ The objective of the experiment is to study DSB/SSB amplitude modulation and det
 ### 2. Story:
 
 
-Apparatus
+## Apparatus
 1.	DSB/SSB	AMtransmitter kit
 2.	CRO
 3.	Patch cords 
 
-With following specifications,
+## With following specifications,
 
 1.	DSB/SSB	AM transmitter kit	(ST2201)
 2   CRO as required by the DSB/SSb transmitter
