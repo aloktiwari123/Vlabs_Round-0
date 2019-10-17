@@ -68,10 +68,10 @@ AM wave can be expressed as:
 <br> ANS:-D
 
 ##### 4. The ratio between the modulating signal voltage and the carrier voltage is called?
-a) Amplitude modulation
-b) Modulation frequency 
-c)  <b> Modulation index  </b>
-d) Ratio of modulation
+<br> a) Amplitude modulation
+<br> b) Modulation frequency 
+<br> c)  <b> Modulation index  </b>
+<br> d) Ratio of modulation
 <br> ANS:-C
 
 ##### 5:- What happens when the amplitude of the modulating signal is greater than the amplitude of the carrier?
