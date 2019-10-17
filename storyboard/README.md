@@ -47,7 +47,7 @@ AM wave can be expressed as:
 
 1.	DSB/SSB	AM transmitter kit	(ST2201)
 2  CRO as required by the DSB/SSb transmitter
-3.	Patch cords of desired lenght and required numbers
+3.	Patch cords of desired length and required numbers
 
 ### 4. User objective goals
 1. To study DSB/SSB amplitude modulation.
