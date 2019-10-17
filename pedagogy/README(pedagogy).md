@@ -19,11 +19,11 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : Experimentation and Data Analysis
-The students know the concept of interference, value of wavelength of light source used and relation for finding the wavelength of light and refractive index of the liquid using Newton’s ring experiment. They do the experimentation based on the formula, trial and error and learn from it, finally analyzing results with standard value.
+The students know the concept DSB/SSB amplitude modulation and they will learn how to determine its modulation factor,they will come to know how to use DSB/SSB transmitters learn about its circuit diagram and how thw modulation occurs and helpfull.
 #### 2. Learning Objectives and Cognitive Level
 
-<h1>To study DSB/SSB amplitude modulation.</h1>
-<h1>To determine its modulation factor.</h1>
+To study DSB/SSB amplitude modulation.
+To determine its modulation factor.
 
 
 <br/>
