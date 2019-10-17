@@ -108,5 +108,16 @@ AM wave can be expressed as:
 ### 6. Formulas and euations used
 
 Formulas:
+<a href="storyboard/eq.gif">[here]</a><br>
+<a href="storyboard/eq1.gif">[here]</a><br>
+<a href="storyboard/eq2.gif">[here]</a><br>
+<a href="storyboard/eq3.gif">[here]</a><br>
+<a href="storyboard/eq4.gif">[here]</a>
+
+
+
+
+
+
 
 
