@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html> 
+<center>
+<meta charset="windows-1252">
+<meta name="viewport">
+<title>DSB-SSB Simulator </title>
+<h1><b>DSB-SSB Simulator</b></h1>
+<img src="eq.jpg"/>
+<br><br>
+<img src="eq1.jpg"/>
+<br><br>
+<img src="eq2.jpg"/><br><br>
+<img src="eq3.jpg"/><br><br>
+<img src="eq4.jpg"/>
+<style type="text/css">
+body {margin: 30px;}
+</style> 
+</head>
+<body>
+<form>
+     <b>Maximum Amplitude(A)</b> : <input type="text" id="am" /><br><br>
+     <b>Vmax</b> : <input type="text" id="vmax" /><br><br>
+     <b>Vmin</b> : <input type="text" id="vmin" /><br><br>
+     <input type="button" onClick="modulation()" Value="Modulation Index" />
+     <br><br>
+     <input type="button" onClick="Tp()" Value="Total power" />
+</form>
+ <p>Modulation: <br>
+ <span id = "Modulation"></span>
+ </p>
+ <p>Total Power: <br>
+    <span id = "tp"></span>
+    </p>
+</body>
+<script>
+    var num3;
+    function modulation()
+{
+        num1 = document.getElementById("vmax").value;
+        num2 = document.getElementById("vmin").value;
+        num3=(num1-num2)*100/(num1+num2);
+        document.getElementById("Modulation").innerHTML =num3 ;
+}
+
+function Tp() 
+{ 
+        num1 = document.getElementById("vmax").value;
+        num2 = document.getElementById("vmin").value;
+        am=document.getElementById("am").value;
+        pc=(am*am)/2;
+        
+        pt=pc*(1+((num3*num3)/2));
+        
+        tp=pc+pt;
+        document.getElementById("tp").innerHTML = tp;
+}
+</script>
+</center>
+<head>
+</html>
