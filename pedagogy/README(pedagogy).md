@@ -63,7 +63,9 @@ Now open the Quizes<br>
 <br>
 <div>
     The quizes are provided that will judge and enhance the skills of the Student. <br>
-    Each question is relevent to the experiment and will judge and  increse the understanding of experiment and their concept. 
+    Each question is relevent to the experiment and will judge and  increse the understanding of experiment and their concept. <br><br>
+    
+   Submit the responses and the simulator will give you the results on the basis of which you can assess yourself.
  
 </div>
 <br>
