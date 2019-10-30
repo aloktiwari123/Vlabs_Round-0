@@ -19,10 +19,10 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : Experimentation and Data Analysis
-a) The students will know the concept modulation (DSB-SSB).
-b) They will learn how to determine its modulation factor.
-c) They will learn how to determine its total power.
-d) They will come to know about the circuits and the formulas used in the DSB-SSB modulation.
+a) The students will know the concept modulation (DSB-SSB).<br>
+b) They will learn how to determine its modulation factor.<br>
+c) They will learn how to determine its total power.<br>
+d) They will come to know about the circuits and the formulas used in the DSB-SSB modulation.<br>
 
 <br/>
 <div align="right">
@@ -34,10 +34,10 @@ d) They will come to know about the circuits and the formulas used in the DSB-SS
 <a name="LO"></a>
 #### 2. Learning Objectives and Cognitive Level
 
-a)To study DSB/SSB amplitude modulation.
-b)To determine its modulation factor.
-c)To determine the total power.
-d)To learn its working and to enhance its concepts.
+a)To study DSB/SSB amplitude modulation.<br>
+b)To determine its modulation factor.<br>
+c)To determine the total power.<br>
+d)To learn its working and to enhance its concepts.<br>
 
 
 <br/>
@@ -51,18 +51,18 @@ d)To learn its working and to enhance its concepts.
 
 #### 3. Task & Assessment Questions:
 
-Read the theory and comprehend the concept related to the experiment. 
-a) Open the simulator1.
-b) Provide the simulator with the information asked.
-c) Simulator will fetch you the value of Modulation Factor on various readings.
-d) Simulator will fetch you the value of Totla Power on various redings.
+Read the theory and comprehend the concept related to the experiment.<br> 
+a) Open the simulator1.<br>
+b) Provide the simulator with the information asked.<br>
+c) Simulator will fetch you the value of Modulation Factor on various readings.<br>
+d) Simulator will fetch you the value of Totla Power on various redings.<br><br>
 
-Now open the Quizes
+Now open the Quizes<br>
 
 
 <br>
 <div>
-    The quizes are provided that will judge and enhance the skills of the Student. 
+    The quizes are provided that will judge and enhance the skills of the Student. <br>
     Each question is relevent to the experiment and will judge and  increse the understanding of experiment and their concept. 
  
 </div>
