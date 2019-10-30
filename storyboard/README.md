@@ -126,12 +126,11 @@ Formulas:<br>
 <br>
 <img src="storyboard/eq3.jpg"/>
  <br>
-Modulation Index m =  ×100 %
- 
 
-Power of Carrier Signal Pc = Ac²/2 <br>
-Power of Side Band Ps = Pc[1+ ma²/2] <br>
-Total power, P = Pc + Ps
+<b>Modulation Index m =  ×100 %</b><br>
+<b>Power of Carrier Signal Pc = Ac²/2 </b> <br>
+<b>Power of Side Band Ps = Pc[1+ ma²/2] </b><br>
+<b>Total power, P = Pc + Ps</b>
 
 ### 7. Conclusion:
 ####  Study of DSB/SSB AM signal has been done. 
