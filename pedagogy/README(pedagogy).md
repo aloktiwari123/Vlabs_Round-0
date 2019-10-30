@@ -5,9 +5,9 @@
 <b> Experiment:DSB/SSB amplitude modulation   <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Electronics & Communications Lab
+<b>Discipline | <b>Electronics & Communications
 :--|:--|
-<b> Lab | <b> Electronics Engineering
+<b> Lab | <b>Electronics & Communications Lab
 <b> Experiment|     <b> To study DSB/SSB amplitude modulation and determine its modulation factor.
 
 
@@ -47,7 +47,7 @@ d)To learn its working and to enhance its concepts.<br>
 <br/>
 <hr>
 
-<a name="IS"></a>
+<a name="AQ"></a>
 
 #### 3. Task & Assessment Questions:
 
