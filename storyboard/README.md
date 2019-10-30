@@ -12,7 +12,7 @@ The objective of the experiment is to study DSB/SSB amplitude modulation and det
 
 Double sideband suppressed carrier modulation
 At the beginning of the explanation of amplitude modulation, we explained the AM radio system, but the term for amplitude in the theoretical expression was complex. If the amplitude of the carrier wave is simply changed and mathematised, it is as follows. This modulation method is called DSB-SC (double sideband suppressed carrier modulation). As the name suggests, there’s no wave carrier in the modulated wave.
-<div align:"center">
+<div align="center">
 <img src="storyboard/ssb.jpg"/>
 </div>
 <br>
