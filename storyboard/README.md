@@ -40,9 +40,10 @@ AM wave can be expressed as:
 
 
 #### Apparatus
-1.	DSB/SSB	AMtransmitter kit
+1.	DSB/SSB	AM transmitter kit
 2.	CRO
 3.	Patch cords 
+<img src="storyboard/t1.jpg"/>
 
 #### With following specifications,
 
