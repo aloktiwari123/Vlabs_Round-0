@@ -131,8 +131,10 @@ Power of Carrier Signal Pc = Ac²/2 <br>
 Power of Side Band Ps = Pc[1+ ma²/2] <br>
 Total power, P = Pc + Ps
 
-### 7.Conclusion:
-####  Study of DSB/SSB AM signal has been done. Modulation Index has been calculated and power has been determined.
+### 7. Conclusion:
+####  Study of DSB/SSB AM signal has been done. 
+       a) Modulation Index has been calculated.
+       b) Power in the side bands has been determined.
 
 
 
