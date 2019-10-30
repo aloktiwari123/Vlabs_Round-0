@@ -2,9 +2,9 @@
 
 <br>
 
-<b>Discipline | <b>Electronics & Communications Lab
+<b>Discipline | <b>Electronics & Communications
 :--|:--|
-<b> Lab. | <b>Electronics Engineering
+<b> Lab. | <b>Electronics & Communications Lab
 <b> Experiment|     <b> DSB/ SSB amplitude modulation & determine its modulation factor & power in side bands.
 
 
