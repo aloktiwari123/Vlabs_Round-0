@@ -44,8 +44,8 @@ AM wave can be expressed as:
 <div align="center">
 <img src="storyboard/t1.jpg"/>
  </div>
-2.	CRO <br>
-3.	Patch cords 
+2.	CRO <br><br
+3.	Patch Cords 
 <div align="center">
 <img src="storyboard/p1.jpg"/>
  </div>
@@ -60,6 +60,7 @@ AM wave can be expressed as:
 ### 4. User objective goals
 1. To study DSB/SSB amplitude modulation.
 2. To determine its modulation factor.
+3. To detrmine its total power in the side bands.
 
 
 ### 5. Challenges and Questions
